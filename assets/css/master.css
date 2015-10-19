@@ -1,0 +1,18 @@
+/* MASTER CSS FILE */
+
+body, html{
+    margin: 0;
+    padding: 0;
+}
+
+header, footer{
+    text-align: center;
+    padding: 25px 0 25px 0;
+}
+
+header{
+    min-height: 350px;
+    background: url("../images/bg.jpg");
+    background-size: cover;
+    background-position: center center;
+}
