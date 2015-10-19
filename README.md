@@ -1,4 +1,4 @@
-# sti-1st-class
+# sHTML5 & Responsive Web
 
 Hey guys, and welcome to your first STI Labs lesson on Introduction to Web Technologies.
 
