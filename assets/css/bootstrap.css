@@ -4213,8 +4213,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar {
   position: relative;
-  min-height: 50px;
-  margin-bottom: 20px;
+  min-height: 20px;
+  margin-bottom: 1px;
   border: 1px solid transparent;
 }
 @media (min-width: 768px) {
@@ -5016,7 +5016,7 @@ a.badge:focus {
 }
 .jumbotron p {
   margin-bottom: 15px;
-  font-size: 21px;
+  font-size: 15px;
   font-weight: 200;
 }
 .jumbotron > hr {
